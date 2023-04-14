@@ -19,12 +19,18 @@ I'm a big fan of programming. Above all, I love working with the Microsoft world
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Facebook][facebook-shield]][facebook-url]
+[![About][about-shield]][about-url]
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -244,18 +250,24 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- Local -->
 [product-screenshot]: images/screenshot.jpg
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/marcosena/marcosena/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/marcosena/marcosena/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/marcosena/marcosena/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/marcosena/marcosena/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/marcosena/marcosena/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
+[youtube-url]: https://www.youtube.com/@m-sena
+[twitter-url]: https://twitter.com/MarcoSena1976
+[facebook-url]: https://www.facebook.com/marco.sena
+[about-url]: https://about.me/marcosena
+
+[forks-url]: https://github.com/marcosena/marcosena/network/members
+[stars-url]: https://github.com/marcosena/marcosena/stargazers
+[issues-url]: https://github.com/marcosena/marcosena/issues
+[contributors-url]: https://github.com/marcosena/marcosena/graphs/contributors
+[license-url]: https://github.com/marcosena/marcosena/blob/master/LICENSE.txt
+
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
