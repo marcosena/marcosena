@@ -256,7 +256,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [twitter-shield]: https://img.shields.io/twitter/url?style=social
 
 [facebook-url]: https://www.facebook.com/marco.sena
-[facebook-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[facebook-shield]: https://img.facebook.io/twitter/url?style=social
 
 [about-url]: https://about.me/marcosena
 [about-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
