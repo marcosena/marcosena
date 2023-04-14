@@ -242,7 +242,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Local -->
-[product-screenshot]: images/logo/screenshot.jpg
+[product-screenshot]: images/screenshot.jpg
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/marcosena/marcosena/graphs/contributors
