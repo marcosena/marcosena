@@ -9,7 +9,14 @@
 -->
 
 ### Hi there, I'm [Marco][about-url] 👋 💻
-I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
+
+[![GitHub followers](https://img.shields.io/github/followers/marcominerva?label=GitHub%20Followers&style=for-the-badge)](https://github.com/marcominerva)
+[![Discord](https://img.shields.io/discord/488014271641419777?label=Discord&style=for-the-badge)](https://discord.com/channels/488014271641419777)
+[![Twitch Status](https://img.shields.io/twitch/status/marcominerva?style=for-the-badge)](https://www.twitch.tv/marcominerva)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/marcominerva)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge)](https://youtube.com/marcominerva)
+
+## I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
 
 <!-- PROJECT SHIELDS -->
 <!--
