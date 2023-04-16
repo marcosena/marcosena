@@ -9,7 +9,6 @@
 -->
 
 ### Hi there, I'm [Marco][about-url] 👋 💻
-<br />
 I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
 
 <!-- PROJECT SHIELDS -->
