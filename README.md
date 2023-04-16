@@ -116,6 +116,8 @@
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" alt="Oracle" title="Oracle" width="26px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" />
 
+<img align="left" alt="Blazor" title="Blazor" width="26px" src="https://vectorwiki.com/images/kYNj1__blazor.svg" />
+<img align="left" alt="Razor" title="Razor" width="26px" src="https://vectorwiki.com/images/kYNj1__blazor.svg" />
 <img align="left" alt="Xamarin" title="Xamarin" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" />
 <img align="left" alt="Azure" title="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -125,6 +127,11 @@
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitLab" title="GitLab" width="26px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" />
+
+<img align="left" alt="Bamboo" title="Bamboo" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" />
+<img align="left" alt="Jira" title="Jira" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
+<img align="left" alt="Confluence" title="Confluence" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
+
 
 <br />
 <br />
