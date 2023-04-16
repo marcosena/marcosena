@@ -104,11 +104,18 @@
 
 ### Languages and Tools:
 
-<div class="grid-container">
-  <div class="grid-item">1</div>  <div class="grid-item">2</div>  <div class="grid-item">3</div>
-  <div class="grid-item">4</div>  <div class="grid-item">5</div>  <div class="grid-item">6</div>
-  <div class="grid-item">7</div>  <div class="grid-item">8</div>  <div class="grid-item">9</div>
+<div class="wrapper">
+  <div>One</div>
+  <div>Two</div>
+  <div>Three</div>
+  <div>Four</div>
+  <div>Five</div>
 </div>
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+}
 
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt='.NET Core' title=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
