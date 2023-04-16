@@ -104,19 +104,6 @@
 
 ### Languages and Tools:
 
-<div class="wrapper">
-  <div>One</div>
-  <div>Two</div>
-  <div>Three</div>
-  <div>Four</div>
-  <div>Five</div>
-</div>
-
-.wrapper {
-  display: grid;
-  grid-template-columns: 200px 200px 200px;
-}
-
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt='.NET Core' title=".NET Core" width="26px" src="https://adrianwilczynski.gallerycdn.vsassets.io/extensions/adrianwilczynski/asp-net-core-switcher/2.0.2/1577043327534/Microsoft.VisualStudio.Services.Icons.Default" />
 <img align="left" alt="C#" title="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -125,10 +112,13 @@
 <img align="left" alt="VB.NET" title="VB.NET" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" />
 <img align="left" alt="Java" title="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 
+### DataBase:
+
 <img align="left" alt="SQL Server" title="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" alt="Oracle" title="Oracle" width="26px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" />
 
+### Tools:
 <img align="left" alt="Blazor" title="Blazor" width="26px" src="https://vectorwiki.com/images/kYNj1__blazor.svg" />
 <img align="left" alt="Razor" title="Razor" width="26px" src="https://vectorwiki.com/images/kYNj1__blazor.svg" />
 <img align="left" alt="Xamarin" title="Xamarin" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" />
