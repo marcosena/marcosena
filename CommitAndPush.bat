@@ -1,7 +1,7 @@
 @echo off
 
 set name="Marco Sena"
-set email="marcosena1976@gmail.com"
+set email="marcosena@msn.com"
 set sslVerify=true
 
 set comment=%1
@@ -71,3 +71,6 @@ echo.
 
 echo End Commit And Push
 echo.
+
+pause
+exit
