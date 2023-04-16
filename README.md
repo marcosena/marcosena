@@ -22,7 +22,7 @@
 [![About][about-shield]][about-url]
 [![GitHub][GitHub-shield]][github-url]
 [![Twitch][linkedin-shield]][Twitch-url]
-[![discord][discord-shield]][discordt-url]
+[![discord][discord-shield]][discord-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Twitter Follow][twitter-follow-shield]][twitter-url]
 [![YouTube][youtube-shield]][youtube-url]
