@@ -152,12 +152,26 @@
 </div>
 
 ## About The Project
+
+<div align="center">
+  <a href="https://github.com/marcosena/marcosena">
+    <img src="images/walpaper.jpg" alt="Logo" title="Logo" width="80" height="80">
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/marcosena/marcosena">
+    <img src="images/screenshot.jpg" alt="Logo" title="Logo" width="80" height="80">
+  </a>
+</div>
+
 [![Walpaper][product-walpaper]](https://example.com)
 
 [![Screenshot][product-screenshot]](https://example.com)
 
-[product-screenshot]: images/screenshot.jpg
 [product-walpaper]: images/walpaper.jpg
+[product-screenshot]: images/screenshot.jpg
 
 <!--
 [![AboutMe][about-shield]][about-url]
