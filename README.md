@@ -133,13 +133,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
-    <img src="images/logo/Default Logo-2.0.gif" alt="Logo" title="Logo" width="80" height="80">
+    <img src="images/logo/Logo.svg" alt="Logo" title="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">README</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/marcosena/marcosena"><strong>Explore the docs »</strong></a>
     <br />
