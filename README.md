@@ -41,6 +41,8 @@
 [license-shield]: https://img.shields.io/github/license/marcosena/marcosena.svg?style=for-the-badge
 
 
+[about-url]: https://about.me/marcosena
+[about-shield]: https://img.shields.io
 
 
 
@@ -60,8 +62,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
 
-[about-url]: https://about.me/marcosena
-[about-shield]: https://img.shields.io
 
 [github-url]: https://github.com/marcosena
 [github-shield]: https://img.shields.io/github/followers/marcosena?label=GitHub%20Followers&style=for-the-badge
