@@ -151,14 +151,15 @@
   </p>
 </div>
 
-[![Walpaper][walpaper]](https://example.com)
-[walpaper]: images/walpaper.jpg
+## About The Project
+[![Walpaper][product-walpaper]](https://example.com)
+[product-walpaper]: images/walpaper.jpg
 
 <br />
 <br />
 
-[![screenshot][screenshot]](https://example.com)
-[screenshot]: images/screenshot.jpg
+[![screenshot][product-screenshot]](https://example.com)
+[product-screenshot]: images/screenshot.jpg
 
 <!--
 [![AboutMe][about-shield]][about-url]
