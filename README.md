@@ -8,11 +8,9 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-Hi there, I'm [Marco][about-url] 👋 💻
+### Hi there, I'm [Marco][about-url] 👋 💻
 <br />
 I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -48,14 +46,15 @@ I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <
 [facebook-url]: https://www.facebook.com/marco.sena
 [facebook-shield]: https://img.facebook.io/twitter/url?style=social
 
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+-->
 
-
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO 
 <br />
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
@@ -77,10 +76,9 @@ I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <
     <a href="https://github.com/marcosena/marcosena/issues">Request Feature</a>
   </p>
 </div>
+-->
 
-
-
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS 
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -105,10 +103,9 @@ I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+-->
 
-
-
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT 
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -141,12 +138,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 
-
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -179,10 +175,9 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
-
-
-<!-- USAGE EXAMPLES -->
+<!-- USAGE EXAMPLES 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -191,9 +186,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 
-
-<!-- ROADMAP -->
+<!-- ROADMAP 
 ## Roadmap
 
 - [x] Add Changelog
@@ -208,9 +203,9 @@ See the [open issues](https://github.com/marcosena/marcosena/issues) for a full 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 
-
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -226,18 +221,18 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 
-
-<!-- LICENSE -->
+<!-- LICENSE 
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 
-
-<!-- CONTACT -->
+<!-- CONTACT 
 ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
@@ -246,9 +241,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+-->
 
-
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS 
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
@@ -263,10 +258,10 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-->
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links 
 
 
 
@@ -311,3 +306,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+
+-->
