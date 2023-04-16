@@ -153,13 +153,11 @@
 
 ## About The Project
 [![Walpaper][product-walpaper]](https://example.com)
-[product-walpaper]: images/walpaper.jpg
 
-<br />
-<br />
+[![Screenshot][product-screenshot]](https://example.com)
 
-[![screenshot][product-screenshot]](https://example.com)
 [product-screenshot]: images/screenshot.jpg
+[product-walpaper]: images/walpaper.jpg
 
 <!--
 [![AboutMe][about-shield]][about-url]
