@@ -108,14 +108,14 @@
 <img align="left" alt="C#" title="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="C++" title="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C" title="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="VB.NET" title="VB.NET" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" />
-<img align="left" alt="Java" title="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+<img align="left" alt="VB.NET" title="VB.NET" width="52px" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" />
+<img align="left" alt="Java" title="Java" width="52px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <br />
 
 ### DataBase:
 <img align="left" alt="SQL Server" title="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
-<img align="left" alt="Oracle" title="Oracle" width="26px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="52px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+<img align="left" alt="Oracle" title="Oracle" width="52px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" />
 <br />
 
 ### Tools:
