@@ -40,28 +40,37 @@
 [license-url]: https://github.com/marcosena/marcosena/blob/main/LICENSE
 [license-shield]: https://img.shields.io/github/license/marcosena/marcosena.svg?style=for-the-badge
 
-
 [about-url]: https://about.me/marcosena
 [about-shield]: https://img.shields.io
 
 
 
-## I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
+## I'm a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
+
+### Connect with me:
+
+[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][about-url]
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github-url]
+[<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch-url]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube-url]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord-url]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter-url]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook-url]
 
 <!--
-
-[![About][about-shield]][about-url]
+[![AboutMe][about-shield]][about-url]
 [![GitHub][GitHub-shield]][github-url]
-[![Twitch][linkedin-shield]][Twitch-url]
-[![discord][discord-shield]][discord-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Twitter Follow][twitter-follow-shield]][twitter-url]
+[![Twitch][linkedin-shield]][twitch-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![YouTube Channel Views][youtube-channel-views-shield]][youtube-channel-views-url]
 [![YouTube Channel Subscribers][youtube-channel-subscriber-shield]][youtube-channel-subscribers-url]
+[![Discord][discord-shield]][discord-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Twitter Follow][twitter-follow-shield]][twitter-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
-
+-->
 
 [github-url]: https://github.com/marcosena
 [github-shield]: https://img.shields.io/github/followers/marcosena?label=GitHub%20Followers&style=for-the-badge
@@ -91,7 +100,7 @@
 [facebook-url]: https://www.facebook.com/marco.sena
 [facebook-shield]: https://img.shields.io
 
--->
+<br />
 
 <!-- PROJECT LOGO 
 <br />
