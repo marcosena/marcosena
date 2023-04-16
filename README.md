@@ -10,11 +10,16 @@
 
 ### Hi there, I'm [Marco][about-url] 👋 💻
 
-[![GitHub followers](https://img.shields.io/github/followers/marcominerva?label=GitHub%20Followers&style=for-the-badge)](https://github.com/marcominerva)
-[![Discord](https://img.shields.io/discord/488014271641419777?label=Discord&style=for-the-badge)](https://discord.com/channels/488014271641419777)
-[![Twitch Status](https://img.shields.io/twitch/status/marcominerva?style=for-the-badge)](https://www.twitch.tv/marcominerva)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Views&style=for-the-badge)](https://youtube.com/marcominerva)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge)](https://youtube.com/marcominerva)
+[![About][about-shield]][about-url]
+[![GitHub][GitHub-shield]][github-url]
+[![Twitch][linkedin-shield]][Twitch-url]
+[![Discard][discard-shield]][discardt-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![YouTube Channel Views][youtube-channel-views-shield]][youtube-channel-views-url]
+[![YouTube Channel Subscribers][youtube-channel-subscriber-shield]][youtube-channel-subscribers-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Facebook][facebook-shield]][facebook-url]
 
 ## I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
 
@@ -27,30 +32,35 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![About][about-shield]][about-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Twitch][linkedin-shield]][Twitch-url]
-[![YouTube][youtube-shield]][youtube-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Facebook][facebook-shield]][facebook-url]
-
 [about-url]: https://about.me/marcosena
-[about-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[about-shield]: https://img.shields.io
 
-[twitter-url]: https://twitter.com/MarcoSena1976
-[twitter-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[github-url]: https://github.com/marcosena
+[github-shield]: https://img.shields.io
 
-[twitch-url]: ttps://www.twitch.tv/marcosena76
-[twitch-shield]: https://img.shields.io/twitter/url?style=social
+[twitch-url]: https://www.twitch.tv/marcosena76
+[twitch-shield]: https://img.shields.io
+
+[discard-url]: https://discord.com/channels/1097169182673621004
+[discard-shield]: https://img.shields.io
+
+[twitter-url]: https://twitter.com/marcosena1976
+[twitter-shield]: https://img.shields.io
 
 [youtube-url]: https://www.youtube.com/@m-sena
-[youtube-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[youtube-shield]: https://img.shields.io
+
+[youtube-channel-views-url]: https://www.youtube.com/@m-sena
+[youtube-channel-views-shield]: https://www.youtube.com/channel/UCaWRtzmR4Xk87E1c-GUg8hA?label=YouTube%20Views&style=for-the-badge
+
+[youtube-channel-subscribers-url]: https://www.youtube.com/@m-sena
+[youtube-channel-subscriber-shield]: https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge
 
 [linkedin-url]: https://www.linkedin.com/in/m-sena
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io
 
 [facebook-url]: https://www.facebook.com/marco.sena
-[facebook-shield]: https://img.facebook.io/twitter/url?style=social
+[facebook-shield]: https://img.shields.io
 
 <!--
 [![Contributors][contributors-shield]][contributors-url]
