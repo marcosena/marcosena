@@ -71,6 +71,3 @@ echo.
 
 echo End Commit And Push
 echo.
-
-pause
-exit

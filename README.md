@@ -42,8 +42,8 @@
 [twitch-url]: https://www.twitch.tv/marcosena76
 [twitch-shield]: https://img.shields.io/twitch/status/marcosena76?style=for-the-badge
 
-[discard-url]: https://discord.com/channels/1097169182673621004
-[discard-shield]: https://img.shields.io/discord/1097169182673621004?label=Discord&style=for-the-badge
+[discard-url]: https://discord.com/channels/1097169182086406245
+[discard-shield]: https://img.shields.io/discord/1097169182086406245?label=Discord&style=for-the-badge
 
 [twitter-url]: https://twitter.com/marcosena1976
 [twitter-shield]: https://img.shields.io
