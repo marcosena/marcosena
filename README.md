@@ -43,7 +43,12 @@
 [about-url]: https://about.me/marcosena
 [about-shield]: https://img.shields.io
 
-## I'm a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
+## I'm a Consultant, a Analyst, a Software Engineer.
+
+I have been using .NET since its first introduction. Today I proudly live in Naples, Italy.
+I work as developer and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web.
+My greatest expertise is backend development as a software architect.
+I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology and <b>C#</b> language.
 
 ### Connect with me:
 
@@ -150,8 +155,6 @@
     <a href="https://github.com/marcosena/marcosena/issues">Request Feature</a>
   </p>
 </div>
-
-## About The Project
 
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
