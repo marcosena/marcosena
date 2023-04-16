@@ -21,15 +21,15 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Stargazers][stargazers-shield]][stargazers-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 [forks-url]: https://github.com/marcosena/marcosena/network/members
 [forks-shield]: https://img.shields.io/github/forks/marcosena/marcosena.svg?style=for-the-badge
 
-[stars-url]: https://github.com/marcosena/marcosena/stargazers
-[stars-shield]: https://img.shields.io/github/stars/marcosena/marcosena.svg?style=for-the-badge
+[stargazers-url]: https://github.com/marcosena/marcosena/stargazers
+[stargazers-shield]: https://img.shields.io/github/stargazers/marcosena/marcosena.svg?style=for-the-badge
 
 [issues-url]: https://github.com/marcosena/marcosena/issues
 [issues-shield]: https://img.shields.io/github/issues/marcosena/marcosena.svg?style=for-the-badge
