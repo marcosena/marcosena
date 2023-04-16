@@ -151,9 +151,14 @@
   </p>
 </div>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Walpaper][walpaper]](https://example.com)
+[walpaper]: images/walpaper.jpg
 
-[product-screenshot]: images/walpaper.jpg
+<br />
+<br />
+
+[![screenshot][screenshot]](https://example.com)
+[screenshot]: images/screenshot.jpg
 
 <!--
 [![AboutMe][about-shield]][about-url]
