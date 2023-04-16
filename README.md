@@ -1,7 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/marcosena/marcosena/pull/73 -->
 <a name="readme-top"></a>
 <!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** Thanks for checking out the marcosena. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
@@ -19,6 +19,29 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+[forks-url]: https://github.com/marcosena/marcosena/network/members
+[forks-shield]: https://img.shields.io/github/forks/marcosena/marcosena.svg?style=for-the-badge
+
+[stars-url]: https://github.com/marcosena/marcosena/stargazers
+[stars-shield]: https://img.shields.io/github/stars/marcosena/marcosena.svg?style=for-the-badge
+
+[issues-url]: https://github.com/marcosena/marcosena/issues
+[issues-shield]: https://img.shields.io/github/issues/marcosena/marcosena.svg?style=for-the-badge
+
+[contributors-url]: https://github.com/marcosena/marcosena/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/marcosena/marcosena.svg?style=for-the-badge
+
+[license-url]: https://github.com/marcosena/marcosena/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/marcosena/marcosena.svg?style=for-the-badge
+
+
+
 [![About][about-shield]][about-url]
 [![GitHub][GitHub-shield]][github-url]
 [![Twitch][linkedin-shield]][Twitch-url]
@@ -33,7 +56,7 @@
 
 ## I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
 
-
+<!--
 [about-url]: https://about.me/marcosena
 [about-shield]: https://img.shields.io
 
@@ -48,7 +71,7 @@
 
 [twitter-url]: https://twitter.com/marcosena1976
 [twitter-shield]: https://img.shields.io/twitter/url?style=social
-[twitter-follow-shield]: https://img.shields.io/twitter/follow/marcosena1976?style=for-the-badge
+[twitter-follow-shield]: https://img.shields.io/twitter/follow/marcosena1976?style=social
 
 [youtube-url]: https://www.youtube.com/@m-sena
 [youtube-shield]: https://img.shields.io
@@ -65,12 +88,6 @@
 [facebook-url]: https://www.facebook.com/marco.sena
 [facebook-shield]: https://img.shields.io
 
-<!--
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 -->
 
 <!-- PROJECT LOGO 
@@ -80,7 +97,7 @@
     <img src="images/logo/Logo-2.0.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">marcosena</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -287,20 +304,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [product-screenshot]: images/screenshot.jpg
 
-[forks-url]: https://github.com/marcosena/marcosena/network/members
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 
-[stars-url]: https://github.com/marcosena/marcosena/stargazers
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-
-[issues-url]: https://github.com/marcosena/marcosena/issues
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-
-[contributors-url]: https://github.com/marcosena/marcosena/graphs/contributors
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-
-[license-url]: https://github.com/marcosena/marcosena/blob/master/LICENSE.txt
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
