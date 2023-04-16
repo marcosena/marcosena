@@ -22,8 +22,9 @@
 [![About][about-shield]][about-url]
 [![GitHub][GitHub-shield]][github-url]
 [![Twitch][linkedin-shield]][Twitch-url]
-[![Discard][discard-shield]][discardt-url]
+[![discord][discord-shield]][discordt-url]
 [![Twitter][twitter-shield]][twitter-url]
+[![Twitter Follow][twitter-follow-shield]][twitter-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![YouTube Channel Views][youtube-channel-views-shield]][youtube-channel-views-url]
 [![YouTube Channel Subscribers][youtube-channel-subscriber-shield]][youtube-channel-subscribers-url]
@@ -42,11 +43,12 @@
 [twitch-url]: https://www.twitch.tv/marcosena76
 [twitch-shield]: https://img.shields.io/twitch/status/marcosena76?style=for-the-badge
 
-[discard-url]: https://discord.com/channels/1097169182086406245
-[discard-shield]: https://img.shields.io/discord/1097169182086406245?label=Discord&style=for-the-badge
+[discord-url]: https://discord.com/channels/1097169182086406245
+[discord-shield]: https://img.shields.io/discord/1097169182086406245?label=Discord&style=for-the-badge
 
 [twitter-url]: https://twitter.com/marcosena1976
-[twitter-shield]: https://img.shields.io
+[twitter-shield]: https://img.shields.io/twitter/url?style=social
+[twitter-follow-shield]: https://img.shields.io/twitter/follow/marcosena1976?style=social
 
 [youtube-url]: https://www.youtube.com/@m-sena
 [youtube-shield]: https://img.shields.io
