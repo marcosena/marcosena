@@ -48,7 +48,7 @@
 
 [twitter-url]: https://twitter.com/marcosena1976
 [twitter-shield]: https://img.shields.io/twitter/url?style=social
-[twitter-follow-shield]: https://img.shields.io/twitter/follow/marcosena1976?style=social
+[twitter-follow-shield]: https://img.shields.io/twitter/follow/marcosena1976?style=for-the-badge
 
 [youtube-url]: https://www.youtube.com/@m-sena
 [youtube-shield]: https://img.shields.io
