@@ -42,6 +42,12 @@
 
 
 
+
+
+## I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
+
+<!--
+
 [![About][about-shield]][about-url]
 [![GitHub][GitHub-shield]][github-url]
 [![Twitch][linkedin-shield]][Twitch-url]
@@ -54,9 +60,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Facebook][facebook-shield]][facebook-url]
 
-## I am a Developer Analyst. I love to develop in <b>Microsoft</b> environment by <b>NET Core</b> technology and <b>C#</b> language.
-
-<!--
 [about-url]: https://about.me/marcosena
 [about-shield]: https://img.shields.io
 
