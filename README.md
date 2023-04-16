@@ -111,12 +111,10 @@
 <img align="left" alt="C" title="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="VB.NET" title="VB.NET" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" />
 <img align="left" alt="Java" title="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
-<br />
 
 <img align="left" alt="SQL Server" title="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
 <img align="left" alt="Oracle" title="Oracle" width="26px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" />
-<br />
 
 <img align="left" alt="Blazor" title="Blazor" width="26px" src="https://vectorwiki.com/images/kYNj1__blazor.svg" />
 <img align="left" alt="Razor" title="Razor" width="26px" src="https://vectorwiki.com/images/kYNj1__blazor.svg" />
@@ -125,17 +123,16 @@
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<br />
 
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitLab" title="GitLab" width="26px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" />
-<br />
+
 <img align="left" alt="Bamboo" title="Bamboo" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" />
 <img align="left" alt="Jira" title="Jira" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
 <img align="left" alt="Confluence" title="Confluence" width="26px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
-<br />
 
+<br />
 <br />
 
 <!-- PROJECT LOGO 
