@@ -155,14 +155,14 @@
 
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
-    <img src="images/walpaper.jpg" alt="Logo" title="Logo" width="80" height="80">
+    <img src="images/walpaper.jpg" alt="Logo" title="Logo" >
   </a>
 </div>
 
 
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
-    <img src="images/screenshot.jpg" alt="Logo" title="Logo" width="80" height="80">
+    <img src="images/screenshot.jpg" alt="Logo" title="Logo" >
   </a>
 </div>
 
