@@ -133,7 +133,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
-    <img src="images/logo/Logo.svg" alt="Logo" title="Logo" width="80" height="80">
+    <img src="images/logo/Default Logo-2.0.gif" alt="Logo" title="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">README</h3>
@@ -151,6 +151,9 @@
   </p>
 </div>
 
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+[product-screenshot]: images/walpaper.jpg
 
 <!--
 [![AboutMe][about-shield]][about-url]
