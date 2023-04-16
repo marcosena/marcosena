@@ -37,7 +37,7 @@
 [contributors-url]: https://github.com/marcosena/marcosena/graphs/contributors
 [contributors-shield]: https://img.shields.io/github/contributors/marcosena/marcosena.svg?style=for-the-badge
 
-[license-url]: https://github.com/marcosena/marcosena/blob/master/LICENSE.txt
+[license-url]: https://github.com/marcosena/marcosena/blob/main/LICENSE.txt
 [license-shield]: https://img.shields.io/github/license/marcosena/marcosena.svg?style=for-the-badge
 
 
