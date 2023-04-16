@@ -145,18 +145,13 @@
 - [Document Chatter][youtube-url]
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...][youtube]
-
-
-<!-- PROJECT LOGO 
+<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
     <img src="images/logo/Logo-2.0.png" alt="Logo" width="80" height="80">
   </a>
-
   <h3 align="center">marcosena</h3>
-
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
@@ -170,7 +165,7 @@
     <a href="https://github.com/marcosena/marcosena/issues">Request Feature</a>
   </p>
 </div>
--->
+
 
 <!-- TABLE OF CONTENTS 
 <details>
