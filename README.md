@@ -166,10 +166,6 @@
   </a>
 </div>
 
-[![Walpaper][product-walpaper]](https://example.com)
-
-[![Screenshot][product-screenshot]](https://example.com)
-
 [product-walpaper]: images/walpaper.jpg
 [product-screenshot]: images/screenshot.jpg
 
