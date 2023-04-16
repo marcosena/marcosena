@@ -8,8 +8,10 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-Hi there, I'm [Marco](https://about.me/marcosena) 👋 💻
-I'm a big fan of programming. Above all, I love working with the Microsoft world, especially in .NET with C# language
+Hi there, I'm [Marco][about-url] 👋 💻
+I am a Developer Analyst. I love to develop in <b>Microsoft<7b> environment by <b>NET Core</b> technology and <b>C#</b> language.
+
+
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -20,18 +22,36 @@ I'm a big fan of programming. Above all, I love working with the Microsoft world
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![YouTube][youtube-shield]][youtube-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![Facebook][facebook-shield]][facebook-url]
 [![About][about-shield]][about-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![Twitch][linkedin-shield]][Twitch-url]
+[![YouTube][youtube-shield]][youtube-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Facebook][facebook-shield]][facebook-url]
+
+[about-url]: https://about.me/marcosena
+[about-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[twitter-url]: https://twitter.com/MarcoSena1976
+[twitter-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[twitch-url]: ttps://www.twitch.tv/marcosena76
+[twitch-shield]: https://img.shields.io/twitter/url?style=social
+
+[youtube-url]: https://www.youtube.com/@m-sena
+[youtube-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin-url]: https://www.linkedin.com/in/m-sena
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[facebook-url]: https://www.facebook.com/marco.sena
+[facebook-shield]: https://img.facebook.io/twitter/url?style=social
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
 
 
 <!-- PROJECT LOGO -->
@@ -119,6 +139,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,20 +267,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-[youtube-url]: https://www.youtube.com/@m-sena
-[youtube-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
-[twitter-url]: https://twitter.com/MarcoSena1976
-[twitter-shield]: https://img.shields.io/twitter/url?style=social
-
-[facebook-url]: https://www.facebook.com/marco.sena
-[facebook-shield]: https://img.facebook.io/twitter/url?style=social
-
-[about-url]: https://about.me/marcosena
-[about-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 
 [product-screenshot]: images/screenshot.jpg
