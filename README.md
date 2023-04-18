@@ -43,7 +43,7 @@
 [about-url]: https://about.me/marcosena
 [about-shield]: https://img.shields.io
 
-## I'm a Consultant, a Analyst, a Software Engineer.
+## I'm a Consultant, a Analyst, a Developer and Software Architect.
 
 I have been using .NET since its first introduction. Today I proudly live in Naples, Italy.
 I work as developer and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web.
