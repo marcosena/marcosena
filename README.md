@@ -18,7 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stargazers-shield]][stargazers-url]
@@ -39,6 +39,13 @@
 
 [license-url]: https://github.com/marcosena/marcosena/blob/main/LICENSE
 [license-shield]: https://img.shields.io/github/license/marcosena/marcosena.svg?style=for-the-badge
+-->
+
+[![GitHub followers](https://img.shields.io/github/followers/marcosena?label=GitHub%20Followers&style=for-the-badge)](https://github.com/marcosena)
+[![Discord](https://img.shields.io/discord/1097169182086406245?label=Discord&style=for-the-badge)](https://discord.com/channels/1097169182086406245)
+[![Twitch Status](https://img.shields.io/twitch/status/marcosena76?style=for-the-badge)](https://www.twitch.tv/marcosena76)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCaWRtzmR4Xk87E1c-GUg8hA?label=YouTube%20Views&style=for-the-badge)](https://www.youtube.com/@m-sena)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge)](https://youtube.com/marcosena)
 
 ## I'm a Consultant, a Analyst, a Software Engineer.
 
