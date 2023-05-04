@@ -47,7 +47,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCaWRtzmR4Xk87E1c-GUg8hA?label=YouTube%20Views&style=for-the-badge)](https://www.youtube.com/@m-sena)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge)](https://youtube.com/marcosena)
 
-## I'm a Consultant, a Analyst, a Software Engineer.
+## I'm a Consultant, a Analyst, a Developer and Software Architect.
 
 I have been using .NET since its first introduction. Today I proudly live in Naples, Italy.
 I work as developer and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web.
