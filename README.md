@@ -40,9 +40,6 @@
 [license-url]: https://github.com/marcosena/marcosena/blob/main/LICENSE
 [license-shield]: https://img.shields.io/github/license/marcosena/marcosena.svg?style=for-the-badge
 
-[about-url]: https://about.me/marcosena
-[about-shield]: https://img.shields.io
-
 ## I'm a Consultant, a Analyst, a Software Engineer.
 
 I have been using .NET since its first introduction. Today I proudly live in Naples, Italy.
@@ -60,6 +57,9 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/twitter.svg" />][twitter-url]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/linkedin.svg" />][linkedin-url]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/facebook.svg" />][facebook-url]
+
+[about-url]: https://about.me/marcosena
+[about-shield]: https://img.shields.io
 
 [github-url]: https://github.com/marcosena
 [github-shield]: https://img.shields.io/github/followers/marcosena?label=GitHub%20Followers&style=for-the-badge
