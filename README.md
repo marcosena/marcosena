@@ -33,6 +33,10 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+<br />
+
+[![Twitter][twitter-follow-shield]][twitter-url]
+
 ## I'm a Consultant, a Analyst, a Developer and Software Architect.
 
 I have been using .NET since its first introduction. Today I proudly live in Naples, Italy.
@@ -86,7 +90,7 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
 [youtube-shield]: https://img.shields.io
 
 [youtube-channel-views-url]: https://www.youtube.com/@m-sena
-[youtube-channel-views-shield]: https://www.youtube.com/channel/UCaWRtzmR4Xk87E1c-GUg8hA?label=YouTube%20Views&style=for-the-badge
+[youtube-channel-views-shield]: https://img.shields.io/youtube/channel/views/UCaWRtzmR4Xk87E1c-GUg8hA?label=YouTube%20Views&style=for-the-badge
 
 [youtube-channel-subscribers-url]: https://www.youtube.com/@m-sena
 [youtube-channel-subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge
