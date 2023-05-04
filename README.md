@@ -24,18 +24,11 @@
 [![Twitch Status][twitch-shield]][twitch-url]
 [![YouTube Channel Views][youtube-channel-views-shield]][youtube-channel-views-url]
 [![YouTube Channel Subscribers][youtube-channel-subscribers-shield]][youtube-channel-subscribers-url]
-
-<br />
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stargazers-shield]][stargazers-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-<br />
-
-[![Twitter][twitter-follow-shield]][twitter-url]
 
 ## I'm a Consultant, a Analyst, a Developer and Software Architect.
 
