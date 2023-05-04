@@ -19,6 +19,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+[![GitHub followers][github-shield]][github-url]
+[![Discord][discord-shield]][github-url]
+[![Twitch Status][twitch-shield]][twitch-url]
+[![YouTube Channel Views][youtube-channel-views-shield]][youtube-channel-views-url]
+[![YouTube Channel Subscribers][youtube-channel-subscriber-shield]][youtube-channel-subscriber-url]
+
+<br />
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -162,7 +169,6 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
     <img src="images/walpaper.jpg" alt="Logo" title="Logo" >
   </a>
 </div>
-
 
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
