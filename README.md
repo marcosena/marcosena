@@ -23,7 +23,7 @@
 [![Discord][discord-shield]][github-url]
 [![Twitch Status][twitch-shield]][twitch-url]
 [![YouTube Channel Views][youtube-channel-views-shield]][youtube-channel-views-url]
-[![YouTube Channel Subscribers][youtube-channel-subscriber-shield]][youtube-channel-subscriber-url]
+[![YouTube Channel Subscribers][youtube-channel-subscribers-shield]][youtube-channel-subscribers-url]
 
 <br />
 
@@ -89,7 +89,7 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
 [youtube-channel-views-shield]: https://www.youtube.com/channel/UCaWRtzmR4Xk87E1c-GUg8hA?label=YouTube%20Views&style=for-the-badge
 
 [youtube-channel-subscribers-url]: https://www.youtube.com/@m-sena
-[youtube-channel-subscriber-shield]: https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge
+[youtube-channel-subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCYU2iA9BN92QrL3I90YFZfQ?label=YouTube%20Subscribers&style=for-the-badge
 
 [linkedin-url]: https://www.linkedin.com/in/m-sena
 [linkedin-shield]: https://img.shields.io
@@ -185,7 +185,7 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
 [![Twitch][linkedin-shield]][twitch-url]
 [![YouTube][youtube-shield]][youtube-url]
 [![YouTube Channel Views][youtube-channel-views-shield]][youtube-channel-views-url]
-[![YouTube Channel Subscribers][youtube-channel-subscriber-shield]][youtube-channel-subscribers-url]
+[![YouTube Channel Subscribers][youtube-channel-subscribers-shield]][youtube-channel-subscribers-url]
 [![Discord][discord-shield]][discord-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Twitter Follow][twitter-follow-shield]][twitter-url]
