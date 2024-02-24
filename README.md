@@ -39,16 +39,14 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/aboutdotme.svg" />][about-url]-->
 [<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" title="About me" />][about-url] 
-
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/github.svg" />][github-url]
-[<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/twitch.svg" />][twitch-url]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/youtube.svg" />][youtube-url]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/discord.svg" />][discord-url]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/twitter.svg" />][twitter-url]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/linkedin.svg" />][linkedin-url]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/facebook.svg" />][facebook-url]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/github.svg" title="GitHub" />][github-url]
+[<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitch.svg" title="Twitch" />][twitch-url]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" title="YouTube" />][youtube-url]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/discord.svg" title="Discord" />][discord-url]
+[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" title="X" />][twitter-url]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" title="LinkedIn" />][linkedin-url]
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/facebook.svg" title="Facebook" />][facebook-url]
 
 [forks-url]: https://github.com/marcosena/marcosena/network/members
 [forks-shield]: https://img.shields.io/github/forks/marcosena/marcosena.svg?style=for-the-badge
