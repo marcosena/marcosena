@@ -39,7 +39,9 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
 
 ### Connect with me:
 
-[<img align="left" alt="About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/aboutdotme.svg" />][about-url]
+<!-- [<img align="left" alt="About Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/aboutdotme.svg" />][about-url]-->
+[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" title="About me" />][about-url] 
+
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/github.svg" />][github-url]
 [<img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/twitch.svg" />][twitch-url]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/youtube.svg" />][youtube-url]
