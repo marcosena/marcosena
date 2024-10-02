@@ -7,9 +7,10 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-<a href="https://github.com/marcosena/marcosena">
-	<img src="images/walpaper.jpg" alt="master-X" title="master-X" >
-</a>
+
+  <a href="https://github.com/marcosena/marcosena">
+    <img src="images/logo/Default Logo-2.0.gif" alt="master-X" title="master-X" width="80" height="80">
+  </a>
   
 ### Hi there, I'm [Marco][about-url] 👋 💻
 
