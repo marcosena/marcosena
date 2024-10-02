@@ -32,10 +32,12 @@
 
 ## I'm a Consultant, a Analyst, a Developer and Software Architect.
 
-I have been using .NET since its first introduction. Today I proudly live in Naples, Italy.
-I work as developer and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web.
-My greatest expertise is backend development as a software architect.
-I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology and <b>C#</b> language.
+<p align="justify">
+	I have been using .NET since its first introduction. Today I proudly live in Naples, Italy.
+	I work as developer and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web.
+	My greatest expertise is backend development as a software architect.
+	I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology and <b>C#</b> language.
+</p>
 
 ### Connect with me:
 
@@ -48,7 +50,7 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" title="LinkedIn" />][linkedin-url]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@8.10.0/icons/facebook.svg" title="Facebook" />][facebook-url]
 
-[forks-url]: https://github.com/marcosena/marcosena/network/members
+[forks-url]: https://github.com/marcosena/marcosena/forks
 [forks-shield]: https://img.shields.io/github/forks/marcosena/marcosena.svg?style=for-the-badge
 
 [stargazers-url]: https://github.com/marcosena/marcosena/stargazers
@@ -143,7 +145,7 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
 <br />
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
-    <img src="images/logo/Default Logo-2.0.gif" alt="Logo" title="Logo" width="80" height="80">
+    <img src="images/logo/Default Logo-2.0.gif" alt="master-X" title="master-X" width="80" height="80">
   </a>
 
   <h3 align="center">README</h3>
@@ -155,21 +157,23 @@ I love to develop in <b>Microsoft</b> environment by <b>.NET Core</b> technology
     <br />
     <a href="https://github.com/marcosena/marcosena">View Demo</a>
     ·
+    <a href="https://github.com/marcosena/marcosena/pulse">Pulse</a>
+    ·
     <a href="https://github.com/marcosena/marcosena/issues">Report Bug</a>
     ·
-    <a href="https://github.com/marcosena/marcosena/issues">Request Feature</a>
+    <a href="https://github.com/marcosena/marcosena/milestones">Milestones</a>
   </p>
 </div>
 
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
-    <img src="images/walpaper.jpg" alt="Logo" title="Logo" >
+    <img src="images/walpaper.jpg" alt="master-X" title="master-X" >
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/marcosena/marcosena">
-    <img src="images/screenshot.jpg" alt="Logo" title="Logo" >
+    <img src="images/screenshot.jpg" alt="Visual Studio" title="Visual Studio">
   </a>
 </div>
 
