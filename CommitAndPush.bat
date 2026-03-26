@@ -1,76 +1,82 @@
 @echo off
+cls
+color 0A
+setlocal EnableDelayedExpansion
 
-set name="Marco Sena"
-set email="marcosena@msn.com"
-set sslVerify=true
+REM === CONFIG ===
+set "name=Marco Sena"
+set "email=marcosena@msn.com"
 
-set comment=%1
-if "%comment%"=="" set comment=Update
+REM === COMMIT MESSAGE ===
+set "comment=%~1"
+if "%comment%"=="" set "comment=Update"
 
-echo The current directory is %CD%
-echo The Committer Name is %name%
-echo The Committer Email is %email%
-echo The sslVerify %sslVerify%
-echo The comment is: '%comment%'
+echo Directory: %CD%
+echo Committer: %name% ^<%email%^>
+echo Message: "%comment%"
 echo.
 
-git config --global user.name %name%
-git config --global user.email %email%
-git config --global http.sslVerify %sslVerify%
+REM === CHECK IF INSIDE GIT REPO ===
+git rev-parse --is-inside-work-tree >nul 2>&1
+if errorlevel 1 (
+    echo ERROR: Not inside a git repository!
+    goto :end
+)
 
-echo Actual git config
-git config --global user.name
-git config --global user.email
-git config --global http.sslVerify
+REM === CURRENT BRANCH ===
+for /f "delims=" %%b in ('git rev-parse --abbrev-ref HEAD') do set branch=%%b
+echo Current branch: !branch!
 echo.
 
-echo The current branch is
-git branch
+REM === CHECK FOR CHANGES ===
+echo Checking for changes...
+git status --porcelain > tmp_git_status.txt
+
+for %%A in (tmp_git_status.txt) do if %%~zA==0 (
+    echo No changes to commit.
+    del tmp_git_status.txt
+    goto :end
+)
+del tmp_git_status.txt
+
+echo Changes detected.
 echo.
 
-echo Status...
-git status
-echo.
-
-echo Pull...
+REM === PULL ===
+echo Pulling latest changes...
 git pull
+if errorlevel 1 (
+    echo ERROR: Pull failed. Resolve conflicts and try again.
+    goto :end
+)
 echo.
 
-echo Adding...
+REM === ADD ===
+echo Adding files...
 git add .
-echo Added
 echo.
 
+REM === COMMIT (WITHOUT TOUCHING GLOBAL CONFIG) ===
 echo Committing...
-git commit -m %comment%
-rem git commit --author="%name% <%email%>" -m %comment%
-echo Committed
+git -c user.name="%name%" -c user.email="%email%" commit -m "%comment%"
+if errorlevel 1 (
+    echo ERROR: Commit failed.
+    goto :end
+)
 echo.
 
+REM === PUSH ===
 echo Pushing...
 git push
-echo Pusched
+if errorlevel 1 (
+    echo ERROR: Push failed.
+    goto :end
+)
 echo.
 
-echo Status...
-git status
+echo SUCCESS: Commit and push completed!
+
+:end
 echo.
-
-set name="Marco Sena"
-set email="marco.sena@external.eni.com"
-
-git config --global user.name %name%
-git config --global user.email %email%
-git config --global http.sslVerify false
-
-echo Actual git config
-git config --global user.name
-git config --global user.email
-git config --global http.sslVerify
-echo.
-
-echo End Commit And Push
-echo.
-
 pause
-exit
+endlocal
