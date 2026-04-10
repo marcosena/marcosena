@@ -24,57 +24,83 @@ if errorlevel 1 (
 )
 
 REM === CURRENT BRANCH ===
-for /f "delims=" %%b in ('git rev-parse --abbrev-ref HEAD') do set branch=%%b
+set "branch="
+for /f "delims=" %%b in ('git rev-parse --abbrev-ref HEAD 2^>nul') do set "branch=%%b"
+if "!branch!"=="" set "branch=main"
 echo Current branch: !branch!
 echo.
 
-REM === CHECK FOR CHANGES ===
-echo Checking for changes...
-git status --porcelain > tmp_git_status.txt
-
-for %%A in (tmp_git_status.txt) do if %%~zA==0 (
+REM === CHECK CHANGES ===
+set "hasChanges=0"
+git status --porcelain | findstr . >nul
+if errorlevel 1 (
     echo No changes to commit.
-    del tmp_git_status.txt
-    goto :end
+    echo Will only sync and push existing local commits, if any.
+    echo.
+) else (
+    set "hasChanges=1"
+    echo Changes detected.
+    echo.
 )
-del tmp_git_status.txt
 
-echo Changes detected.
-echo.
+REM === CHECK REMOTE ===
+set "hasRemote=0"
+git remote | findstr . >nul
+if not errorlevel 1 set "hasRemote=1"
 
-REM === PULL ===
-echo Pulling latest changes...
-git pull
-if errorlevel 1 (
-    echo ERROR: Pull failed. Resolve conflicts and try again.
-    goto :end
-)
-echo.
-
-REM === ADD ===
-echo Adding files...
-git add .
-echo.
-
-REM === COMMIT (WITHOUT TOUCHING GLOBAL CONFIG) ===
-echo Committing...
-git -c user.name="%name%" -c user.email="%email%" commit -m "%comment%"
-if errorlevel 1 (
-    echo ERROR: Commit failed.
-    goto :end
-)
-echo.
-
-REM === PUSH ===
-echo Pushing...
-git push
-if errorlevel 1 (
-    echo ERROR: Push failed.
-    goto :end
+REM === PULL (REBASE) ONLY IF REMOTE EXISTS ===
+if "!hasRemote!"=="1" (
+    echo Pulling latest changes with rebase...
+    git rev-parse --verify origin/!branch! >nul 2>&1
+    if errorlevel 1 (
+        echo No remote branch exists. Skipping pull.
+    ) else (
+        git pull --rebase --autostash
+        if errorlevel 1 (
+            echo ERROR: Pull failed.
+            goto :end
+        )
+    )
+) else (
+    echo No remote configured. Skipping pull.
 )
 echo.
 
-echo SUCCESS: Commit and push completed!
+REM === ADD & COMMIT IF CHANGES ===
+if "!hasChanges!"=="1" (
+    echo Adding files...
+    git add .
+    if errorlevel 1 (
+        echo ERROR: Add failed.
+        goto :end
+    )
+    echo.
+
+    echo Committing...
+    git -c user.name="%name%" -c user.email="%email%" commit -m "%comment%"
+    if errorlevel 1 (
+        echo ERROR: Commit failed.
+        goto :end
+    )
+    echo Commit successful.
+)
+
+REM === PUSH ONLY IF REMOTE EXISTS ===
+if "!hasRemote!"=="1" (
+    echo Pushing...
+    git push
+    if errorlevel 1 (
+        echo ERROR: Push failed.
+        goto :end
+    ) else (
+        echo Push successful.
+    )
+) else (
+    echo No remote configured. Skipping push.
+)
+echo.
+
+echo SUCCESS!
 
 :end
 echo.
